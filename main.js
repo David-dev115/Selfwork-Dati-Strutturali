@@ -20,3 +20,6 @@ let array_1 = [
 
 
 console.log(array_1[0][0], array_1[1][0],array_1[0][1], array_2[4][0][0], array_1[0][0], array_1[1][0],array_1[0][1], array_1[1][1], array_1[0][0], array_1[1][0],array_1[0][1], array_1[2][0],array_1 [2][1], array_2[3][0], array_2[4][1], array_1[0][2] );
+
+
+// carico esercizio svolto
